@@ -1,4 +1,4 @@
-# Transfection Tracker README
+# TransfectionTracker README
 
 > Disclaimer: This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY that it will perform flawlessly or be
 fit for a particular purpose. The use or mention by NIST of commercial products does not imply endorsement or indication that they are the
@@ -10,9 +10,9 @@ This program allows collection of information about gene editing
 operations and activities performed on transfected cells. It allows
 tracking of what is done and when to individual cell samples over time.
 
-## Instructions for using TransfectionTracker
+## Instructions for using TransfectionTracker1221
 
-**TransfectionTracker_v1221.xlsm**
+**TransfectionTracker1221.xlsm**
 
 ## Table of contents
 
