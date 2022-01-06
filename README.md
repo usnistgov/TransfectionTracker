@@ -51,7 +51,7 @@ tracking of what is done and when to individual cell samples over time.
 4)  Two versions of the program are provided. One is populated with
     existing data so the user can see examples of what data are
     collected, how data are tabulated, and examples of reports created
-    by querying the data. The version indicated by "\_clean" has no
+    by querying the data. The version indicated by "\.clean" has no
     saved data. The user can begin to populate this version with new or
     test data, or they can modify it to suit their own data needs.
 
